@@ -1,0 +1,73 @@
+
+*{
+    margin: auto;
+    padding: 0;
+}
+.header{
+    background-color: #eca5b5fd;
+    
+    width: 1920px;
+    height: 850px;
+}
+.baner-contant{
+    padding: 300px;
+    padding-left: 230px
+}
+.banner{
+    display: flex;
+}
+.header-img{
+    width: 635px;
+    height: 745px;
+    padding-top: 50px;
+padding-right: 250px;
+position: relative;
+}
+.h1{
+    font-size: 50px;
+}
+.swction-1{
+    width: 594px;
+    height: 132px;
+    padding-top: 60px;
+    text-align: center;
+}
+.div1{
+    background-color: #eebbd4;
+    width: 464px;
+    height: 538px;
+    border-radius: 250px 250px 0 0;
+}
+.div2{
+    background-color: #b2e9ec;
+    width: 464px;
+    height: 538px;
+    border-radius: 250px 250px 0 0;
+}
+.div3{
+    background-color: #c7eea0;
+    width: 464px;
+    height: 538px;
+    border-radius: 250px 250px 0 0;
+}
+.flower-img{
+    width: 310px;
+    height: 428px;
+    padding-top: 110px;
+padding-left: 71px;
+}
+.flowers3{
+    display: flex;
+    padding: 0 200px;
+}
+.flowers3 h3{
+    text-align: center;
+    padding-top: 10px;
+    text-decoration: underline;
+}
+.section2{
+    background-color: #747171;
+    margin-top: 180px;
+    width: 1440px;
+    height: 320px;
+}
